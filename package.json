@@ -1,0 +1,16 @@
+{
+  "name": "com.ikenanas.weakresources",
+  "version": "0.1.1",
+  "displayName": "Weak Resources",
+  "description": "Lazy load resources instead of hard referencing it",
+  "unity": "2020.3",
+ 	"keywords": [
+    "softptr",
+    "weakresources"
+  ],
+  "author": {
+    "name": "Ikenanas",
+    "email": "francois.charrier23@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
